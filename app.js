@@ -80,9 +80,60 @@
 //     alert("try again")
 // }
 
-var user = new Date();
-console.log(user)
-console.log(user)
-console.log(user)
-console.log(user)
-console.log(user)
+// var user = new Date();
+// console.log(user)
+// console.log(user)
+// console.log(user)
+// console.log(user)
+// console.log(user)
+
+// var d = new Date();
+// var currentMonth = d.getMonth();
+// console.log(currentMonth)
+
+
+// var d = new Date();
+// var month = ["Janurary","Feburary","March","April","May","June","July","August","September","October","November","December"]
+// var user= d.getMonth();
+// if(month === user){
+//     alert("Current Month is" + user)
+// }
+
+// var month = ["Jan","Feb","March","April","May","June","July","Aug","Sep","oct","Nov","Dec"]
+// var now = new Date()
+// var themonth = now.getMonth()
+// var monthoftoday = month[themonth];
+// console.log(monthoftoday)
+
+// var dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+// var now = new Date();
+// var theDay= now.getDay();
+// var nameOfToday = dayNames[theDay]
+// console.log(nameOfToday)
+
+
+// var dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+// var now = new Date();
+// var theDay = now.getDay();
+// var nameOfToday = dayNames[theDay];
+// console.log(nameOfToday)
+
+// var dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+// var now = new Date();
+// var theDay = now.getDay();
+// var nameOfToday = dayNames[theDay];
+// if(nameOfToday==="Sun" || nameOfToday==="sat"){
+//     alert("its Funs day")
+// }
+// else{
+//     alert("its Working Day")
+// }
+// var num = new Date()
+// console.log(num)
+// console.log(num.getMilliseconds())
+// console.log(num.getMinutes())
+
+// // var date=  Date("January 1, 1970")
+// var today= new Date()
+// var mili = mainDate.getTime() - date.getTime();
+// console.log(mili / 1000/60/60/24)
