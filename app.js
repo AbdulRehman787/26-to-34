@@ -62,3 +62,27 @@
 // }else{
 //     alert("Match fixed")
 // }
+
+// var num = Math.floor(Math.random()*100);
+// document.write( "Random number between is 1 to 100 : "+ num)
+
+// var inp = prompt("Enter your Weight")
+// console.log("The weight of user is " + inp)
+
+// var num = Math.floor(Math.random()*11);
+// console.log(num)
+// var inp = +prompt("Enter a any one number try to your luck")
+// console.log(inp)
+
+// if(num === inp){
+//     alert("Congrats you are win")
+// }else{
+//     alert("try again")
+// }
+
+var user = new Date();
+console.log(user)
+console.log(user)
+console.log(user)
+console.log(user)
+console.log(user)
